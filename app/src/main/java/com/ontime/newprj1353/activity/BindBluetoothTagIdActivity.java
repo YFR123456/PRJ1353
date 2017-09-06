@@ -122,7 +122,6 @@ public class BindBluetoothTagIdActivity extends AppCompatActivity {
         }
     };
 
-
     //16进制字符串转byte数组
     public static String byteArrayToHexStr(byte[] byteArray) {
         if (byteArray == null) {
